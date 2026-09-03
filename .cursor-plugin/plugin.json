@@ -1,0 +1,15 @@
+{
+  "name": "foxcut",
+  "version": "1.0.0",
+  "description": "Plan, price, generate, edit, upscale, and assemble FoxCut media from Cursor.",
+  "author": {
+    "name": "FoxCut",
+    "email": "hello@foxcut.ai"
+  },
+  "homepage": "https://foxcut.ai/mcp",
+  "repository": "https://github.com/foxcut-ai/foxcut-plugin",
+  "license": "MIT",
+  "keywords": ["ai-video", "ai-image", "creative", "mcp", "media"],
+  "logo": "assets/foxcut-icon.svg",
+  "mcpServers": "./mcp.json"
+}

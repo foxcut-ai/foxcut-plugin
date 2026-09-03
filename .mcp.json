@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "foxcut": {
+      "type": "http",
+      "url": "https://mcp.foxcut.ai/mcp"
+    }
+  }
+}

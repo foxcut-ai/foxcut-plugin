@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "foxcut",
+  "version": "1.0.0",
+  "description": "Create, edit, upscale, and assemble AI images and video through the authenticated FoxCut MCP server.",
+  "author": {
+    "name": "FoxCut",
+    "url": "https://foxcut.ai",
+    "email": "hello@foxcut.ai"
+  },
+  "homepage": "https://foxcut.ai/mcp",
+  "repository": "https://github.com/foxcut-ai/foxcut-plugin",
+  "license": "MIT",
+  "keywords": ["ai-video", "ai-image", "creative", "mcp", "media"]
+}
