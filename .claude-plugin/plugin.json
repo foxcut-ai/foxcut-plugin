@@ -1,7 +1,7 @@
 {
   "name": "foxcut",
-  "version": "1.0.0",
-  "description": "Create, edit, upscale, and assemble AI images and video through the authenticated FoxCut MCP server.",
+  "version": "1.0.1",
+  "description": "Directable AI video and image studio over MCP: camera-directed motion, text to video, image to video, talking avatars, consistent characters, product photos, and UGC ads. Kling, Sora, Veo, and the FoxCut catalog. Plan credits, then generate, edit, upscale, and assemble.",
   "author": {
     "name": "FoxCut",
     "email": "hello@foxcut.ai"
